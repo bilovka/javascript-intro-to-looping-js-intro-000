@@ -3,7 +3,7 @@ function forLoop(array){
     if(num===1){
       array="I am 1 strange loop.";
     }
-    else 
+    else if
     array='I am ${i} strange loops.';
   }
   return array
